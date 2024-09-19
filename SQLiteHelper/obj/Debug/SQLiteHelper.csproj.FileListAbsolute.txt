@@ -15,4 +15,4 @@ C:\Users\jhona\source\repos\SQLiteHelper\SQLiteHelper\obj\Debug\SQLiteHelper.csp
 C:\Users\jhona\source\repos\SQLiteHelper\SQLiteHelper\obj\Debug\SQLiteHelper.csproj.CoreCompileInputs.cache
 C:\Users\jhona\source\repos\SQLiteHelper\SQLiteHelper\obj\Debug\SQLiteHelper.dll
 C:\Users\jhona\source\repos\SQLiteHelper\SQLiteHelper\obj\Debug\SQLiteHelper.pdb
-C:\Users\jhona\Source\Repos\SQLiteHelper\SQLiteHelper\obj\Debug\SQLiteHelper.csproj.CopyComplete
+C:\Users\jhona\source\repos\SqliteHelper\SQLiteHelper\obj\Debug\SQLiteHe.64E32CF6.Up2Date
